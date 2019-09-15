@@ -28,6 +28,9 @@ private:
 	unsigned short int Request_AddMessageToChat(MessageSe& newMessage);
 	unsigned short int Request_SetUserOffline(User& newUser);
 
+	unsigned short int SendMessagesToOne(String& SendToIP,std::multiset<MessageSe> &Data);
+	unsigned short int SendMessageToAll(Message& newMessage);
+
 public:
 	static Server& getInstance() {
 		static Server instance;

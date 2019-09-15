@@ -132,30 +132,30 @@ return this->SendingManagerInstance->Send((newUser.GetIP()).c_str(),"@se!2");
 //---------------------------------------------------------------------------
 unsigned short int Server::Request_SendAllMessages(String& SendToIP){
 std::multiset<MessageSe> Data=this->ModelMessages.GetAllData();
-bool err=0;
-for(auto &it : Data){
-	err=this->SendingManagerInstance->Send(SendToIP,String("@se!3M=")+(it.GetText()).c_str());
-	if(err!=0){
-		return err;
-	}
-}
-return 0;
+return this->SendMessagesToOne(SendToIP,Data);
 }
 //---------------------------------------------------------------------------
 unsigned short int Server::Request_SendXMessages(String& SendToIP,int X){
 std::multiset<MessageSe> Data=this->ModelMessages.GetFewOfLastData(X);
-bool err=0;
+return this->SendMessagesToOne(SendToIP,Data);
+}
+//---------------------------------------------------------------------------
+unsigned short int Server::SendMessagesToOne(String& SendToIP,std::multiset<MessageSe>& Data){
 for(auto &it : Data){
-	err=this->SendingManagerInstance->Send(SendToIP,String("@se!3M=")+(it.GetText()).c_str());
-	if(err!=0){
-		return err;
-	}
+	return this->SendingManagerInstance->Send(SendToIP,String("@se!3M=")+(it.GetText()).c_str());
 }
 return 0;
 }
 //---------------------------------------------------------------------------
 unsigned short int Server::Request_AddMessageToChat(MessageSe& newMessage){
 this->ModelMessages.AddData(newMessage);
+return this->SendMessageToAll(newMessage);
+}
+//---------------------------------------------------------------------------
+unsigned short int Server::SendMessageToAll(Message& newMessage){
+for(auto &it : this->ModelUsers.GetAllData()){
+	return this->SendingManagerInstance->Send((it.GetIP()).c_str(),String("@se!3M=")+(newMessage.GetText()).c_str());
+}
 return 0;
 }
 //---------------------------------------------------------------------------
@@ -171,7 +171,7 @@ return 0;
 	-ѕолучение запроса на добавление пользовател€(добавление в бд)
 	-ѕолучение запроса на отправку всех сообщений
 	-ѕолучение запроса на отправку последних X сообщений
-	-ѕолучение нового сообщени€(добавление в модель)
+	-ѕолучение нового сообщени€(добавление в модель+рассылка всем)
 	-ѕолучение уведомлени€ о выходе из чата(пометить пользовател€ неактивным в моделе)
 
 	@cl!1

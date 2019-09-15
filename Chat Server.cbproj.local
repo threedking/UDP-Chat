@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.103,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Client.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Users.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Messages.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.dfm=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.dfm=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Chat Server.cbproj=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Project1PCH1.h=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Client.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Chat ServerPCH1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\SendingManager.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Users.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Messages.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Models.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.595,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Models.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Server.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\SendingManager.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.455,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.dfm=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.159,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Project1PCH1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Chat ServerPCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Users.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.570,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Server.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Messages.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Users.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\SendingManager.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Models.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.730,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Main.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.745,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.103,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Messages.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Chat Server.cbproj</Transaction>
-    <Transaction>2019.09.14 09:06:44.054,=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>2019.09.14 09:07:15.122,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Client.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
-    <Transaction>2019.09.14 09:07:15.122,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Client.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Server.h=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Server.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Models.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\SendingManager.cpp=C:\Users\Михаил\Desktop\Junior SE Ring\Programs\Server\Unit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>
